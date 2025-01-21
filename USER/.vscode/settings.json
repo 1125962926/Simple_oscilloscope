@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "string": "c",
+        "alientek_log.h": "c",
+        "adc.h": "c",
+        "dac.h": "c",
+        "timer.h": "c",
+        "lcd.h": "c",
+        "led.h": "c"
+    }
+}
